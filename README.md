@@ -1,4 +1,4 @@
-# Crack Propagation Detection using UNet
+# Crack Propagation Prediciton using UNet
 
 This project aims to develop a deep learning model to predict crack propagation in materials using a UNet architecture. The project leverages simulation data and material properties to simulate and predict crack growth in solid structures. The model can be trained, evaluated, and applied to new data for predicting crack growth patterns based on material characteristics and stress conditions.
 
